@@ -1,4 +1,4 @@
-👋 안녕하세요  ML/AI 엔지니어 공부 중인 이현중입니다 !  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/LEE-HYEONJUNG-c70b140c79444c89b6645e684f24724b)
+### 👋 안녕하세요  ML/AI 엔지니어 공부 중인 이현중입니다 !  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/LEE-HYEONJUNG-c70b140c79444c89b6645e684f24724b)
 
 
 ✅ 늘 '할 수 있다'는 생각을 가지고 사는 긍정마인드 탑재 중입니다!
