@@ -1,8 +1,9 @@
 <div align="center">
 
-### 👋 안녕하세요  ML/AI 엔지니어 이현중입니다 !
+### 👋 HI I'm Hyeonjung(DORY) !
 <br/>
 <br/>
+![image](https://user-images.githubusercontent.com/115054786/233551181-2157de05-7133-4c2b-88d9-16ded9e15641.png)
 
 ### 📱Contact
 [![Phone](https://img.shields.io/badge/Phone-010--3457--7756-red?style=flat-square&logo=Phone&logoColor=white)](tel:01034577756)
@@ -31,8 +32,7 @@
  
 ### 📝 Result
  
-2023 Dacon ‘제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’ public 상위 3%(12위), private 상위 6%(26위)
- 
+2023 Dacon ‘제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’ public 상위 3%(12위), private 상위 6%(26위) 
 <br/>
 <br/>
  
