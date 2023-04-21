@@ -1,6 +1,7 @@
 ### 👋 안녕하세요  ML/AI 엔지니어 이현중입니다 !
  
- 
+<br/>
+<br/>  
  
 ### 📱Contact
 [![Phone](https://img.shields.io/badge/Phone-010--3457--7756-green?style=flat-square&logo=Phone&logoColor=white)](tel:01034577756)
@@ -8,7 +9,8 @@
 [![Email](https://img.shields.io/badge/Email-slaustld1%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:dbtjr1103@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-Hyeonjung%20Lee-blue?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/LEE-HYEONJUNG-c70b140c79444c89b6645e684f24724b)
  
- 
+<br/>
+<br/>  
  
 ### ⚙️ **Tech Stack**
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
