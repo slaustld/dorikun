@@ -35,4 +35,4 @@
 <br/>
  
 ### 📚 **Stats**
-![slaustld의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=slaustld&show_icons=trueshow_icons=true&theme=merko)
+![slaustld의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=slaustld&show_icons=trueshow_icons=true&theme=tokyonight)
