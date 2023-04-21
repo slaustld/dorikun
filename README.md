@@ -32,14 +32,12 @@
 2023 Kaggle ‘GoDaddy - Microbusiness Density Forecasting’ Private Silver🥈
 ### 🏆 Awards
  
-### 📝 Result
+### 📝 Result 📝
 2023 Dacon ‘제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회’ public 상위 3%(12위), private 상위 6%(26위)
-### 📝 Result
 <br/>
 <br/>
  
-### 📚 **Stats**
+### 📚 **Stats** 📚
 ![slaustld의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=slaustld&show_icons=trueshow_icons=true&theme=tokyonight)
-### 📚 **Stats**
 
 </div>
