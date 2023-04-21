@@ -3,12 +3,38 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/LEE-HYEONJUNG-c70b140c79444c89b6645e684f24724b)
 
 
-✅ 늘 '할 수 있다'는 생각을 가지고 사는 긍정마인드 탑재 중입니다!
+### ⚙️ **Tech Stack**
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikit%2Dlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> 
+<br/>
+<br/>  
+ 
+### 🛠 **Tool**
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<br/>
+<br/>
+ 
 
-✅ 위기의 상황에 유연하게 대처할 수 있는 빠른 상황 판단력과 순발력을 지녔습니다. 
+### 🏆 **Award**
 
-✅ 명확한 근거에 기인한 개발을 통해 문제를 해결하고자 합니다.
+**ㆍ <a href="https://www.kaggle.com/competitions/nfl-player-contact-detection">1st and Future - Player Contact Detection</a>**  (Private 61st, Bronze🥉 (Top 7%))
+**ㆍ <a href="https://www.kaggle.com/competitions/nfl-player-contact-detection">1st and Future - Player Contact Detection</a>**  (Private 61st, Bronze🥉 (Top 7%) / 939팀)
 
-✅ 배움에는 끝이 없는 법! 궁금한 것은 배우며 성장하려 노력하고, 배움에 있어 능동적이고 적극적인 자세로 임합니다.
+**ㆍ <a href="https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance">Counting and categorizing vehicles in surveillance</a>**  (Public 1st🥇, Private 1위)
+**ㆍ <a href="https://www.kaggle.com/competitions/counting-and-categorizing-vehicles-in-surveillance">Counting and categorizing vehicles in surveillance</a>**  (Public 1st🥇, Private 1위 / 상금 20만원)
 
-✅ '함께'의 가치를 알며, 팀 프로젝트를 통한 성취하기를 선호합니다.
+
+**ㆍ <a href="https://dacon.io/competitions/official/236064/overview/description">데이콘 제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회</a>**  (Public 13위, Private 2위🥈)
+**ㆍ <a href="https://dacon.io/competitions/official/236064/overview/description">데이콘 제1회 코스포 x 데이콘 자동차 충돌 분석 AI경진대회</a>**  (Public 13위, Private 2위🥈 / 839명)
+
+**ㆍ <a href="https://dacon.io/en/competitions/official/236075/overview/description">데이콘 Basic 전화 해지 여부 분류 AI 경진대회</a>**  (Public 28위)
+**ㆍ <a href="https://dacon.io/en/competitions/official/236075/overview/description">데이콘 Basic 전화 해지 여부 분류 AI 경진대회</a>**  (Public 28위 / 762명)
+
+**ㆍ <a href="https://dacon.io/en/competitions/official/236071/overview/description">월간 데이콘 ChatGPT 활용 AI 경진대회</a>**  (Private 7위)
+**ㆍ <a href="https://dacon.io/en/competitions/official/236071/overview/description">월간 데이콘 ChatGPT 활용 AI 경진대회</a>**  (Private 7위 / 1087명)
+
+
+<br/>
+<br/>
+ 
+### 📚 **Stats**
