@@ -3,6 +3,7 @@
 ### 👋 HI I'm Hyeonjung(DORY) !
 
 <img width="60%" src="https://user-images.githubusercontent.com/115054786/233552426-06c2c017-2331-4786-b1b7-0a39a793232b.gif"/>
+
 ### 📱Contact
 [![Phone](https://img.shields.io/badge/Phone-010--3457--7756-red?style=flat-square&logo=Phone&logoColor=white)](tel:01034577756)
 [![Github](https://img.shields.io/badge/Github-slaustld-orange?style=flat-square&logo=Github&logoColor=white)](https://github.com/slaustld)
