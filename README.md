@@ -7,7 +7,7 @@
 [![Phone](https://img.shields.io/badge/Phone-010--3457--7756-red?style=flat-square&logo=Phone&logoColor=white)](tel:01034577756)
 [![Github](https://img.shields.io/badge/Github-slaustld-orange?style=flat-square&logo=Github&logoColor=white)](https://github.com/slaustld)
 [![Email](https://img.shields.io/badge/Email-slaustld1%40gmail.com-yellow?style=flat-square&logo=Gmail&logoColor=white)](mailto:dbtjr1103@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-Hyeonjung%20Lee-green?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/LEE-HYEONJUNG-c70b140c79444c89b6645e684f24724b)
+[![Notion](https://img.shields.io/badge/Notion-Hyeonjung%20Lee-green?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/LEE-HYEONJUNG-bfcbabf57d8348488575e5e2eccc26ff?pvs=4)
 <br/>
 <br/>
 
